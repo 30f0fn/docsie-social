@@ -1,0 +1,26 @@
+ {
+    popular_topics: [
+        {title: "javascript",
+         pathname: "javascript",
+         description: "JavaScript (not to be confused with Java) is a high-level, dynamic, multi-paradigm, object-oriented, prototype-based, weakly-"
+        },
+        ...
+    ],
+    recommended_topics: [
+        {title: "mat-form-field",
+         pathname: "mat-form-field",
+         description: ""},
+        ...,
+    ],
+    all_topics: [
+        A: [
+            {title: "android", pathname: "android", description: "Google's mobile operating system..."},
+            {title: "arrays", pathname: "arrays", description: "an ordered data structure..."},
+            ...],
+        B: [
+            {title: "bash", pathname: "bash", description: "questions about scripts written for the Bash command shell"},
+            ...],
+        ...,
+        Z: []
+    ],
+}
